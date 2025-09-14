@@ -16,12 +16,10 @@
 title: Reoloteca Comunicación
 email: reoloteca@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+En Reoloteca ofrecemos soluciones en comunicación para empresas, organizaciones e individuxs e la ciudad de Oaxaca, el Istmo y otras regiones del Estado.
 twitter_username: username
 github_username: reoloteca.github.io
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -58,31 +56,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Xavier Kat"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Reoloteca"
+  avatar : "/assets/images/logo-reoloteca.jpg"
+  bio    : "En Reoloteca ofrecemos soluciones en comunicación para empresas, organizaciones e individuxs e la ciudad de Oaxaca, el Istmo y otras regiones del Estado."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://reoloteca.github.io "
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+  # label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "You tube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@Reoloteca"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+ #   - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+  #    url: "https://twitter.com/"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
