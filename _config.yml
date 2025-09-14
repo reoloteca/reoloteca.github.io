@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Reoloteca Comunicación
 email: reoloteca@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-En Reoloteca ofrecemos soluciones en comunicación para empresas, organizaciones e individuxs e la ciudad de Oaxaca, el Istmo y otras regiones del Estado.
+description: En Reoloteca ofrecemos soluciones en comunicación para empresas, organizaciones e individuxs e la ciudad de Oaxaca, el Istmo y otras regiones del Estado.
 twitter_username: username
 github_username: reoloteca.github.io
 minimal_mistakes_skin: contrast
