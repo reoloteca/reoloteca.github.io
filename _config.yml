@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Reoloteca"
-  avatar : "/assets/images/logo-reoloteca.jpg"
+  avatar : "/assets/images/logo-reoloteca.png"
   bio    : "En Reoloteca ofrecemos soluciones en comunicación para empresas, organizaciones e individuxs e la ciudad de Oaxaca, el Istmo y otras regiones del Estado."
   links:
     - label: "Website"
