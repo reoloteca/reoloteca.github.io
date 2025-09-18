@@ -7,7 +7,7 @@ En Reoloteca Comunicación ofrecemos soluciones en contenidos audiovisuales para
 
 **Proyectos con organizaciones de Oaxaca**
 
-- **Servicios para una Educación Alternativa A.C.[EDUCA](www.educaoaxaca.org)**
+- **Servicios para una Educación Alternativa A.C.[EDUCA](https://www.educaoaxaca.org/)**
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3jGaVxIu3jQ?si=IG3IZpCbY7_wi7Y5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 - CIARENA
