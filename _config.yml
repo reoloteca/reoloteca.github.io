@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Reoloteca Comunicación
+logo: "/assets/images/logo-reoloteca.png"
 email: reoloteca@gmail.com
 description: En Reoloteca ofrecemos soluciones en comunicación para empresas, organizaciones e individuxs e la ciudad de Oaxaca, el Istmo y otras regiones del Estado.
-twitter_username: username
+# twitter_username: username
 github_username: reoloteca.github.io
 minimal_mistakes_skin: contrast
 search: true
